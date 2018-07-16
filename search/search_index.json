@@ -1,8 +1,18 @@
 {
     "docs": [
         {
+            "location": "/",
+            "text": "071618\n\n\ntest",
+            "title": "071618"
+        },
+        {
+            "location": "/#071618",
+            "text": "test",
+            "title": "071618"
+        },
+        {
             "location": "/blog/",
-            "text": "Welcome to MkDocs\n\u00b6\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\naldskfja;sdlkjf\n\u00b6\n\n\n;alkdjsf;la\n\u00b6",
+            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n\n\naldskfja;sdlkjf\n\n\n;alkdjsf;la",
             "title": "Welcome to MkDocs"
         },
         {
@@ -22,7 +32,7 @@
         },
         {
             "location": "/Previous/071618/",
-            "text": "071618\n\u00b6\n\n\ntest",
+            "text": "071618\n\n\ntest",
             "title": "071618"
         },
         {
