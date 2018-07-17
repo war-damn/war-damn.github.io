@@ -3,7 +3,7 @@
         {
             "location": "/",
             "text": "Home\n\n\nCreate beautiful project documentation\n\n\nMaterial is a theme for \nMkDocs\n, an excellent static site generator geared\ntowards project documentation. It is built using Google's \nMaterial Design\n\nguidelines.\n\n\n[![Material for MkDocs]]\n\n\nQuick start\n\n\nInstall the latest version of Material with \npip\n:\n\n\npip install mkdocs-material\n\n\n\n\n\nAppend the following line to your project's \nmkdocs.yml\n:\n\n\ntheme\n:\n\n  \nname\n:\n \n'material'\n\n\n\n\n\n\nWhat to expect\n\n\n\n\n\n\nResponsive design and fluid layout for all kinds of screens and devices,\n  designed to serve your project documentation in a user-friendly way in 29\n  languages with optimal readability.\n\n\n\n\n\n\nEasily customizable primary and accent color, fonts, favicon and logo;\n  straight forward localization through theme extension; integrated with Google\n  Analytics, Disqus and GitHub.\n\n\n\n\n\n\nWell-designed search interface accessible through hotkeys (\nF\n or\n  \nS\n), intelligent grouping of search results, search term\n  highlighting and lazy loading.\n\n\n\n\n\n\nFor detailed instructions see the [getting started guide][3].",
-            "title": "index"
+            "title": "Home"
         },
         {
             "location": "/#home",
