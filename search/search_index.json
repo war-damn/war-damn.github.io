@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "07/25/18\n\n\n\n\n\u00a0vSphere & Horizon Upgrade Planning\n\n\n\n\n\u00a0 \n\n\n\u00a0 \n\n\n\u00a0 \nour current\nenviron",
+            "text": "07/25/18\n\n\n\u00a0vSphere & Horizon Upgrades\n\n\nOverview\n\n\nComponents\n\n\nPlan",
             "title": "Home"
         },
         {
@@ -11,9 +11,24 @@
             "title": "&nbsp;"
         },
         {
-            "location": "/#vsphere-horizon-upgrade-planning",
-            "text": "our current\nenviron",
-            "title": "&nbsp;vSphere &amp; Horizon Upgrade Planning"
+            "location": "/#vsphere-horizon-upgrades",
+            "text": "",
+            "title": "&nbsp;vSphere &amp; Horizon Upgrades"
+        },
+        {
+            "location": "/#overview",
+            "text": "",
+            "title": "Overview"
+        },
+        {
+            "location": "/#components",
+            "text": "",
+            "title": "Components"
+        },
+        {
+            "location": "/#plan",
+            "text": "",
+            "title": "Plan"
         },
         {
             "location": "/about/",
