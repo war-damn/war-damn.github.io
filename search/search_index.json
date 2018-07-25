@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "07/25/18\n \u00a0 \u00a0 !!! Success\n\n\n\n\nSuccess",
+            "text": "07/25/18\n \u00a0 Test\n\n\n\n\nSuccess",
             "title": "Home"
         },
         {
-            "location": "/#072518-success",
+            "location": "/#072518-test",
             "text": "Success",
-            "title": "07/25/18 &nbsp; &nbsp; !!! Success"
+            "title": "07/25/18 &nbsp; Test"
         },
         {
             "location": "/about/",
