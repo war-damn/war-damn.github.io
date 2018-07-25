@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "vSphere & Horizon Upgrades\n\n\n07/25/18\n\n\nOverview\n\n\nvSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good \npost\n with more info... These are my notes for upgrading our entire environment.\n\n\nResources\n\n\n\n\nUpdate sequence for vSphere 6.7 and its compatible VMware products\n\n\nVMware Product Interoperability Matrices\n\n\n\nBest practices for upgrading to vCenter Server 6.7\n\n\nImportant information before upgrading to vSphere 6.7\n\n\nBuild numbers and versions of VMware ESXi/ESX\n\n\n\n\n\n\nComponents\n\n\nHorizon Upgrades\n\n\n\n\nHorizon 7.5.1\n\n\nApp Volumes 2.14\n\n\nUser Environment Manager 9.4\n\n\n\n\nvRealize & NSX Upgrades\n\n\n\n\nvRealize Orchestrator 7.4\n\n\nvRealize Log Insight 7.6.1\n\n\nNSX for vSphere 6.4.1\n\n\n\n\nvSphere Upgrades\n\n\n\n\nvCenter Server Appliance 6.7\n\n\nESXi 6.7\n\n\nvSAN 6.7\n\n\nNVIDIA vGPU for vSphere 6.7\n\n\n\n\nWorkspace One\n\n\n\n\nIdentity Manager 3.2\n\n\nWorkspace One UEM 9.5\n\n\n\n\n\n\nPlan",
+            "text": "vSphere & Horizon Upgrades\n\n\n07/25/18\n\n\nOverview\n\n\nvSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good \npost\n with more info... These are my notes for upgrading everything.\n\n\nResources\n\n\n\n\nUpdate sequence for vSphere 6.7 and its compatible VMware products\n\n\nVMware Product Interoperability Matrices\n\n\n\nBest practices for upgrading to vCenter Server 6.7\n\n\nImportant information before upgrading to vSphere 6.7\n\n\nBuild numbers and versions of VMware ESXi/ESX\n\n\n\n\n\n\nComponents\n\n\nHorizon Upgrades\n\n\n\n\nHorizon 7.5.1\n\n\nApp Volumes 2.14\n\n\nUser Environment Manager 9.4\n\n\n\n\nvRealize & NSX Upgrades\n\n\n\n\nvRealize Orchestrator 7.4\n\n\nvRealize Log Insight 7.6.1\n\n\nNSX for vSphere 6.4.1\n\n\n\n\nvSphere Upgrades\n\n\n\n\nvCenter Server Appliance 6.7\n\n\nESXi 6.7\n\n\nvSAN 6.7\n\n\nNVIDIA vGPU for vSphere 6.7\n\n\n\n\nWorkspace One\n\n\n\n\nIdentity Manager 3.2\n\n\nWorkspace One UEM 9.5\n\n\n\n\n\n\nPlan",
             "title": "Home"
         },
         {
@@ -17,7 +17,7 @@
         },
         {
             "location": "/#overview",
-            "text": "vSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good  post  with more info... These are my notes for upgrading our entire environment.",
+            "text": "vSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good  post  with more info... These are my notes for upgrading everything.",
             "title": "Overview"
         },
         {
