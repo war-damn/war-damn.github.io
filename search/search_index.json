@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/",
-            "text": "07/25/18\n \u00a0Blog Post Title 1\n\n\ntest\n\n\n\n\n07/25/18\n \u00a0Blog Post Title 2\n\n\naadsfadf",
+            "text": "07/25/18\n \u00a0vSphere & Horizon Upgrade Planning\n\n\nOur current environment:",
             "title": "Home"
         },
         {
@@ -11,14 +11,9 @@
             "title": "&nbsp;"
         },
         {
-            "location": "/#072518-blog-post-title-1",
-            "text": "test",
-            "title": "07/25/18 &nbsp;Blog Post Title 1"
-        },
-        {
-            "location": "/#072518-blog-post-title-2",
-            "text": "aadsfadf",
-            "title": "07/25/18 &nbsp;Blog Post Title 2"
+            "location": "/#072518-vsphere-horizon-upgrade-planning",
+            "text": "Our current environment:",
+            "title": "07/25/18 &nbsp;vSphere &amp; Horizon Upgrade Planning"
         },
         {
             "location": "/about/",
