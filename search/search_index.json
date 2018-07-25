@@ -2,43 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "second \u00a0 \n07/25/18\n\n\ntest\n\n\nturd\n\n\nasdfa\n\n\n\n\nfirst \u00a0 \n07/25/18\n\n\ntest\n\n\nasdfa\n\n\n\n\n1 \u00a0 \n07/25/18\n\n\nasdfasdf\n\n\n2\n\n\nasdfadsfa\n\n\n3\n\n\nasdfasdf",
+            "text": "07/25/18\n \u00a0 Blog Post Title 1\n\n\ntest\n\n\n\n\n07/25/18\n \u00a0 Blog Post Title 2\n\n\naadsfadf",
             "title": "Home"
         },
         {
-            "location": "/#second-072518",
-            "text": "test",
-            "title": "second &nbsp; 07/25/18"
-        },
-        {
-            "location": "/#turd",
-            "text": "asdfa",
-            "title": "turd"
-        },
-        {
-            "location": "/#first-072518",
+            "location": "/#_1",
             "text": "",
-            "title": "first &nbsp; 07/25/18"
+            "title": "&nbsp;"
         },
         {
-            "location": "/#test",
-            "text": "asdfa",
-            "title": "test"
+            "location": "/#072518-blog-post-title-1",
+            "text": "test",
+            "title": "07/25/18 &nbsp; Blog Post Title 1"
         },
         {
-            "location": "/#1-072518",
-            "text": "asdfasdf",
-            "title": "1 &nbsp; 07/25/18"
-        },
-        {
-            "location": "/#2",
-            "text": "asdfadsfa",
-            "title": "2"
-        },
-        {
-            "location": "/#3",
-            "text": "asdfasdf",
-            "title": "3"
+            "location": "/#072518-blog-post-title-2",
+            "text": "aadsfadf",
+            "title": "07/25/18 &nbsp; Blog Post Title 2"
         },
         {
             "location": "/about/",
