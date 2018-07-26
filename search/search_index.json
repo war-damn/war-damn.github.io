@@ -2,13 +2,13 @@
     "docs": [
         {
             "location": "/",
-            "text": "",
-            "title": "&nbsp;"
+            "text": "Home",
+            "title": "<font color=\"white\">Home</font>"
         },
         {
-            "location": "/#_1",
+            "location": "/#home",
             "text": "",
-            "title": "&nbsp;"
+            "title": "Home"
         },
         {
             "location": "/vSphere & Horizon Upgrades/",
