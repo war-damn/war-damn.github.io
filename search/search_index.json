@@ -2,8 +2,8 @@
     "docs": [
         {
             "location": "/",
-            "text": "vSphere & Horizon Upgrades\n\n\n07/25/18\n\n\nOverview\n\n\nvSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good \npost\n with more info... These are my notes for upgrading everything.\n\n\nResources\n\n\n\n\nUpdate sequence for vSphere 6.7 and its compatible VMware products\n\n\nVMware Product Interoperability Matrices\n\n\n\nBest practices for upgrading to vCenter Server 6.7\n\n\nImportant information before upgrading to vSphere 6.7\n\n\nBuild numbers and versions of VMware ESXi/ESX\n\n\n\n\n\n\nComponents\n\n\nHorizon Upgrades\n\n\n\n\nHorizon 7.5.1\n\n\nApp Volumes 2.14\n\n\nUser Environment Manager 9.4\n\n\n\n\nvRealize & NSX Upgrades\n\n\n\n\nvRealize Orchestrator 7.4\n\n\nvRealize Log Insight 7.6.1\n\n\nNSX for vSphere 6.4.1\n\n\n\n\nvSphere Upgrades\n\n\n\n\nvCenter Server Appliance 6.7\n\n\nESXi 6.7\n\n\nvSAN 6.7\n\n\nNVIDIA vGPU for vSphere 6.7\n\n\n\n\nWorkspace One\n\n\n\n\nIdentity Manager 3.2\n\n\nWorkspace One UEM 9.5\n\n\n\n\n\n\nPlan",
-            "title": "Home"
+            "text": "",
+            "title": "&nbsp;"
         },
         {
             "location": "/#_1",
@@ -11,59 +11,44 @@
             "title": "&nbsp;"
         },
         {
-            "location": "/#vsphere-horizon-upgrades",
+            "location": "/vSphere & Horizon Upgrades/",
+            "text": "vSphere & Horizon Upgrades\n\n\n07/25/18\n\n\nOverview\n\n\nvSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good \npost\n with more info... These are my notes for upgrading everything.\n\n\nResources\n\n\n\n\nUpdate sequence for vSphere 6.7 and its compatible VMware products\n\n\nVMware Product Interoperability Matrices\n\n\n\nBest practices for upgrading to vCenter Server 6.7\n\n\nImportant information before upgrading to vSphere 6.7\n\n\nBuild numbers and versions of VMware ESXi/ESX\n\n\n\n\nPhase 1 - Horizon Upgrades\n\n\n\n\n\n\nHorizon 7.5.1\n\n\nApp Volumes 2.14\n\n\nUser Environment Manager 9.4\n\n\n\n\n\n\nPhase 2 - vRealize & NSX Upgrades\n\n\n\n\n\n\nvRealize Orchestrator 7.4\n\n\nvRealize Log Insight 7.6.1\n\n\nNSX for vSphere 6.4.1\n\n\n\n\n\n\nPhase 3 - vSphere Upgrades\n\n\n\n\n\n\nvCenter Server Appliance 6.7\n\n\nESXi 6.7\n\n\nvSAN 6.7\n\n\nNVIDIA vGPU for vSphere 6.7\n\n\n\n\n\n\nPhase 4 - Workspace One\n\n\n\n\n\n\nIdentity Manager 3.2\n\n\nWorkspace One UEM 9.5",
+            "title": "vSphere & Horizon Upgrades"
+        },
+        {
+            "location": "/vSphere & Horizon Upgrades/#vsphere-horizon-upgrades",
             "text": "07/25/18",
             "title": "vSphere &amp; Horizon Upgrades"
         },
         {
-            "location": "/#overview",
+            "location": "/vSphere & Horizon Upgrades/#overview",
             "text": "vSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. \nHere's a good  post  with more info... These are my notes for upgrading everything.",
             "title": "Overview"
         },
         {
-            "location": "/#resources",
+            "location": "/vSphere & Horizon Upgrades/#resources",
             "text": "Update sequence for vSphere 6.7 and its compatible VMware products  VMware Product Interoperability Matrices  Best practices for upgrading to vCenter Server 6.7  Important information before upgrading to vSphere 6.7  Build numbers and versions of VMware ESXi/ESX",
             "title": "Resources"
         },
         {
-            "location": "/#components",
-            "text": "",
-            "title": "Components"
-        },
-        {
-            "location": "/#horizon-upgrades",
+            "location": "/vSphere & Horizon Upgrades/#phase-1-horizon-upgrades",
             "text": "Horizon 7.5.1  App Volumes 2.14  User Environment Manager 9.4",
-            "title": "Horizon Upgrades"
+            "title": "Phase 1 - Horizon Upgrades"
         },
         {
-            "location": "/#vrealize-nsx-upgrades",
+            "location": "/vSphere & Horizon Upgrades/#phase-2-vrealize-nsx-upgrades",
             "text": "vRealize Orchestrator 7.4  vRealize Log Insight 7.6.1  NSX for vSphere 6.4.1",
-            "title": "vRealize &amp; NSX Upgrades"
+            "title": "Phase 2 - vRealize &amp; NSX Upgrades"
         },
         {
-            "location": "/#vsphere-upgrades",
+            "location": "/vSphere & Horizon Upgrades/#phase-3-vsphere-upgrades",
             "text": "vCenter Server Appliance 6.7  ESXi 6.7  vSAN 6.7  NVIDIA vGPU for vSphere 6.7",
-            "title": "vSphere Upgrades"
+            "title": "Phase 3 - vSphere Upgrades"
         },
         {
-            "location": "/#workspace-one",
+            "location": "/vSphere & Horizon Upgrades/#phase-4-workspace-one",
             "text": "Identity Manager 3.2  Workspace One UEM 9.5",
-            "title": "Workspace One"
-        },
-        {
-            "location": "/#plan",
-            "text": "",
-            "title": "Plan"
-        },
-        {
-            "location": "/about/",
-            "text": "About\n\n\n\n\nInfo",
-            "title": "About"
-        },
-        {
-            "location": "/about/#about",
-            "text": "Info",
-            "title": "About"
+            "title": "Phase 4 - Workspace One"
         }
     ]
 }

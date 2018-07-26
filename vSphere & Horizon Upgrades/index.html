@@ -11,7 +11,7 @@
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       
       
-        <link rel="canonical" href="https://war-damn.com/about/">
+        <link rel="canonical" href="https://war-damn.com/vSphere & Horizon Upgrades/">
       
       
         <meta name="author" content="Brandon Mahtani">
@@ -81,7 +81,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#about" tabindex="1" class="md-skip">
+      <a href="#vsphere-horizon-upgrades" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -107,7 +107,7 @@
                 Let's go where eagles dare...
               </span>
               <span class="md-header-nav__topic">
-                About
+                vSphere & Horizon Upgrades
               </span>
             
           
@@ -180,8 +180,8 @@
 
 
   <li class="md-nav__item">
-    <a href=".." title="Home" class="md-nav__link">
-      Home
+    <a href=".." title="&nbsp;" class="md-nav__link">
+      &nbsp;
     </a>
   </li>
 
@@ -200,9 +200,85 @@
       
     
     
-    <a href="./" title="About" class="md-nav__link md-nav__link--active">
-      About
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        vSphere & Horizon Upgrades
+      </label>
+    
+    <a href="./" title="vSphere & Horizon Upgrades" class="md-nav__link md-nav__link--active">
+      vSphere & Horizon Upgrades
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" title="Overview" class="md-nav__link">
+    Overview
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resources" title="Resources" class="md-nav__link">
+    Resources
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-1-horizon-upgrades" title="Phase 1 - Horizon Upgrades" class="md-nav__link">
+    Phase 1 - Horizon Upgrades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-2-vrealize-nsx-upgrades" title="Phase 2 - vRealize &amp; NSX Upgrades" class="md-nav__link">
+    Phase 2 - vRealize &amp; NSX Upgrades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-3-vsphere-upgrades" title="Phase 3 - vSphere Upgrades" class="md-nav__link">
+    Phase 3 - vSphere Upgrades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-4-workspace-one" title="Phase 4 - Workspace One" class="md-nav__link">
+    Phase 4 - Workspace One
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -224,6 +300,69 @@
     
   
   
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#overview" title="Overview" class="md-nav__link">
+    Overview
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#resources" title="Resources" class="md-nav__link">
+    Resources
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-1-horizon-upgrades" title="Phase 1 - Horizon Upgrades" class="md-nav__link">
+    Phase 1 - Horizon Upgrades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-2-vrealize-nsx-upgrades" title="Phase 2 - vRealize &amp; NSX Upgrades" class="md-nav__link">
+    Phase 2 - vRealize &amp; NSX Upgrades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-3-vsphere-upgrades" title="Phase 3 - vSphere Upgrades" class="md-nav__link">
+    Phase 3 - vSphere Upgrades
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phase-4-workspace-one" title="Phase 4 - Workspace One" class="md-nav__link">
+    Phase 4 - Workspace One
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+      
+      
+      
+      
+        <li class="md-nav__item">
+          <a href="#__comments" title="Comments" class="md-nav__link md-nav__link--active">
+            Comments
+          </a>
+        </li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -235,10 +374,57 @@
               
                 
                 
-                <h1 id="about">About</h1>
-<div class="admonition info">
-<p class="admonition-title">Info</p>
-</div>
+                <h1 id="vsphere-horizon-upgrades">vSphere &amp; Horizon Upgrades</h1>
+<p><small>07/25/18</small><div style="margin-left: 1em;"></p>
+<h2 id="overview">Overview</h2>
+<p>vSphere 6.7 now supports suspend and resume with NVIDIA vGPUs so we need to upgrade to take advantage of all the enhancements announced in the Horizon View 7.5 release. 
+Here's a good <a href="https://www.vembu.com/blog/new-features-of-vmware-horizon-7-5/" title="blog post">post</a> with more info... These are my notes for upgrading everything.</p>
+<h3 id="resources">Resources</h3>
+<ul>
+<li><a href="https://kb.vmware.com/kb/53710">Update sequence for vSphere 6.7 and its compatible VMware products</a></li>
+<li><a href="https://www.vmware.com/resources/compatibility/sim/interop_matrix.php">VMware Product Interoperability Matrices
+</a></li>
+<li><a href="https://kb.vmware.com/kb/54008">Best practices for upgrading to vCenter Server 6.7</a></li>
+<li><a href="https://kb.vmware.com/kb/53704">Important information before upgrading to vSphere 6.7</a></li>
+<li><a href="https://kb.vmware.com/kb/2143832">Build numbers and versions of VMware ESXi/ESX</a></li>
+</ul>
+<h3 id="phase-1-horizon-upgrades">Phase 1 - Horizon Upgrades</h3>
+<blockquote>
+<ol>
+<li><a href="https://docs.vmware.com/en/VMware-Horizon-7/index.html" title="VMware docs">Horizon 7.5.1</a></li>
+<li><a href="https://docs.vmware.com/en/VMware-App-Volumes/index.html" title="VMware docs">App Volumes 2.14</a></li>
+<li><a href="https://docs.vmware.com/en/VMware-User-Environment-Manager/index.html" title="vmware docs">User Environment Manager 9.4</a></li>
+</ol>
+</blockquote>
+<h3 id="phase-2-vrealize-nsx-upgrades">Phase 2 - vRealize &amp; NSX Upgrades</h3>
+<blockquote>
+<ol>
+<li><a href="https://docs.vmware.com/en/vRealize-Orchestrator/index.html">vRealize Orchestrator 7.4</a></li>
+<li><a href="https://docs.vmware.com/en/vRealize-Log-Insight/index.html">vRealize Log Insight 7.6.1</a></li>
+<li><a href="https://docs.vmware.com/en/VMware-NSX-for-vSphere/index.html">NSX for vSphere 6.4.1</a></li>
+</ol>
+</blockquote>
+<h3 id="phase-3-vsphere-upgrades">Phase 3 - vSphere Upgrades</h3>
+<blockquote>
+<ol>
+<li><a href="https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vcenter.upgrade.doc/GUID-9ED7B32A-019F-4A97-BC58-1A9BF7D16C57.html">vCenter Server Appliance 6.7</a></li>
+<li><a href="https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.esxi.upgrade.doc/GUID-65B5B313-3DBB-4490-82D2-A225446F4C99.html">ESXi 6.7</a></li>
+<li><a href="https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.virtualsan.doc/GUID-AEF15062-1ED9-4E2B-BA12-A5CE0932B976.html">vSAN 6.7</a></li>
+<li><a href="https://docs.nvidia.com/grid/index.html">NVIDIA vGPU for vSphere 6.7</a></li>
+</ol>
+</blockquote>
+<h3 id="phase-4-workspace-one">Phase 4 - Workspace One</h3>
+<blockquote>
+<ol>
+<li><a href="https://docs.vmware.com/en/VMware-Identity-Manager/index.html">Identity Manager 3.2</a></li>
+<li><a href="https://docs.vmware.com/en/VMware-Workspace-ONE-UEM/index.html">Workspace One UEM 9.5</a></li>
+</ol>
+</blockquote>
+<p>&nbsp;
+&nbsp;</div></p>
+<hr />
+<p>&nbsp;
+&nbsp;</p>
                 
                   
                 
@@ -246,6 +432,22 @@
               
                 
 
+
+  <h2 id="__comments">Comments</h2>
+  <div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = "https://war-damn.com/vSphere & Horizon Upgrades/";
+      this.page.identifier =
+        "/vSphere & Horizon Upgrades/";
+    };
+    (function() {
+      var d = document, s = d.createElement("script");
+      s.src = "//war-damn.disqus.com/embed.js";
+      s.setAttribute("data-timestamp", +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
 
               
             </article>
@@ -260,7 +462,7 @@
       <nav class="md-footer-nav__inner md-grid">
         <!-- 
         
-          <a href=".." title="Home" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href=".." title="&nbsp;" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -269,7 +471,7 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Home
+                &nbsp;
               </span>
             </div>
           </a>
