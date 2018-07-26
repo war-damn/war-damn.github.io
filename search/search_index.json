@@ -3,7 +3,7 @@
         {
             "location": "/",
             "text": "Home",
-            "title": "<font color=\"white\">Home</font>"
+            "title": "Home"
         },
         {
             "location": "/#home",
